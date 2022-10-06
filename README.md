@@ -1,3 +1,14 @@
+# TODO
+- [x] cms sanity https://www.sanity.io/manage/personal/project/dkbv0dk3
+- [x] auth google cloud https://console.cloud.google.com/apis/credentials?project=apple-redesign-364603&supportedpurview=project
+- [x] payment stripe https://dashboard.stripe.com/test/payments/pi_3LpOUEAwXlYbQEdP4rOwKzul https://stripe.com/docs/testing
+- [x] postcss tailwindcss
+- [x] nextjs/react/redux/@reduxjs/toolkit
+- [x] headlessui
+- [x] heroicons
+- [ ] CICD vercel
+
+
 # Next.js + Tailwind CSS Example
 
 This example shows how to use [Tailwind CSS](https://tailwindcss.com/) [(v3.0)](https://tailwindcss.com/blog/tailwindcss-v3) with Next.js. It follows the steps outlined in the official [Tailwind docs](https://tailwindcss.com/docs/guides/nextjs).
